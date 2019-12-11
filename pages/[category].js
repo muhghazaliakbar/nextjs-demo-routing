@@ -7,7 +7,7 @@ const CategoryShow = () => {
 
     return (
         <Layout>
-            <h3>/{router.query.category}</h3>
+            <h3>Category: /{router.query.category}</h3>
         </Layout>
     );
 };
