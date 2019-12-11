@@ -5,6 +5,6 @@ const About = () => (
     <Layout>
         <h3>About me</h3>
     </Layout>
-);
+) 
 
 export default About;
