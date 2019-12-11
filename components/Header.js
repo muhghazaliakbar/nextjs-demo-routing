@@ -12,7 +12,7 @@ const Header = () => (
         <Link href="/">
             <a style={{ marginRight: 15 }}>Index</a>
         </Link>
-        <Link href="/about" as="/about">
+        <Link href="/about" as="/about-me">
             <a style={{ marginRight: 15 }}>About</a>
         </Link>
         <CategoryLink category="category-1" title="Category 1"/>
